@@ -17,4 +17,4 @@ for i in (0, 1, 2, 3, 4, 5):
   
 - **_El contenido después del ```in``` se trata de una clase que como ya hemos visto antes, es iterable, y es de hecho una tupla._**
   
-- **_Sin embargo, hay otras formas de hacer esto en Python, haciendo uso del range()._**
+- **_Sin embargo, hay otras formas de hacer esto en Python, haciendo uso del ```range()```._**
