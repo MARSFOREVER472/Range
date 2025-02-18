@@ -13,7 +13,7 @@ for i in (0, 1, 2, 3, 4, 5):
     print(i) #0, 1, 2, 3, 4, 5
 ```
 
-- _Se trata de una solución que cumple con nuestro requisito._
+- **_Se trata de una solución que cumple con nuestro requisito._**
   
 - El contenido después del in se trata de una clase que como ya hemos visto antes, es iterable, y es de hecho una tupla.
   
