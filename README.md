@@ -28,4 +28,4 @@ for i in range(6):
   
 - **_En realidad, se pueden pasar hasta tres parámetros separados por coma, donde el primer elemento es el inicio de la secuencia, el segundo el final y el tercero el salto que se desea entre números._**
   
-- _Por defecto se empieza en 0 y el salto es de 1._
+- **_Por defecto se empieza en 0 y el salto es de 1._**
