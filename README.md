@@ -19,6 +19,6 @@ for i in (0, 1, 2, 3, 4, 5):
   
 - **_Sin embargo, hay otras formas de hacer esto en Python, haciendo uso del ```range()```._**
 
-
+```
 for i in range(6):
     print(i) #0, 1, 2, 3, 4, 5
