@@ -24,7 +24,7 @@ for i in range(6):
     print(i) #0, 1, 2, 3, 4, 5
 ```
 
-- El range() genera una secuencia de números que van desde 0 por defecto hasta el número que se pasa como parámetro menos 1.
+- _El range() genera una secuencia de números que van desde 0 por defecto hasta el número que se pasa como parámetro menos 1._
   
 - En realidad, se pueden pasar hasta tres parámetros separados por coma, donde el primer es el inicio de la secuencia, el segundo el final y el tercero el salto que se desea entre números.
   
