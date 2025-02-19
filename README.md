@@ -27,4 +27,5 @@ for i in range(6):
 - El range() genera una secuencia de números que van desde 0 por defecto hasta el número que se pasa como parámetro menos 1.
   
 - En realidad, se pueden pasar hasta tres parámetros separados por coma, donde el primer es el inicio de la secuencia, el segundo el final y el tercero el salto que se desea entre números.
+  
 - Por defecto se empieza en 0 y el salto es de 1.
