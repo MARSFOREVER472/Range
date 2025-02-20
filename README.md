@@ -37,5 +37,6 @@ for i in range(6):
 - **_Por lo tanto, si llamamos a ```range()``` con ```(5,20,2)```, se generarán números de 5 a 20 de dos en dos._**
   
 - **_Un truco es que el ```range()``` se puede convertir en ```list```._**
+
 ```
 print(list(range(5, 20, 2)))
