@@ -48,3 +48,4 @@ print(list(range(5, 20, 2)))
 for i in range(5, 20, 2):
     print(i) #5,7,9,11,13,15,17,19
 ```
+Se pueden generar también secuencias inversas, empezando por un número mayor y terminando en uno menor, pero para ello el salto deberá ser negativo.
