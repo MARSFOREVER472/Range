@@ -42,4 +42,4 @@ for i in range(6):
 print(list(range(5, 20, 2)))
 ```
 
-Y mezclándolo con el for, podemos hacer lo siguiente.
+_Y mezclándolo con el for, podemos hacer lo siguiente._
