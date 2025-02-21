@@ -43,5 +43,6 @@ print(list(range(5, 20, 2)))
 ```
 
 **_Y mezclándolo con el ```for```, podemos hacer lo siguiente._**
+
 for i in range(5, 20, 2):
     print(i) #5,7,9,11,13,15,17,19
