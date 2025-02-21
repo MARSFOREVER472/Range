@@ -47,3 +47,4 @@ print(list(range(5, 20, 2)))
 ```
 for i in range(5, 20, 2):
     print(i) #5,7,9,11,13,15,17,19
+```
