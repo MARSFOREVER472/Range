@@ -6,7 +6,7 @@
   
 - **_Si usted programas, estoy seguro de que estás cansado de escribir esto, aunque sea en otro lenguaje._**
   
-- **_Pongamos que queremos iterar una variable i de 0 a 5. Haciendo uso de lo que hemos visto anteriormente, podríamos hacer lo siguiente._**
+- **Supongamos que queremos iterar una variable i de 0 a 5. Haciendo uso de lo que hemos visto anteriormente, podríamos hacer lo siguiente._**
   
 ```  
 for i in (0, 1, 2, 3, 4, 5):
