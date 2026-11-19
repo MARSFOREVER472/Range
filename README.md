@@ -8,10 +8,9 @@
   
 - **_Supongamos que queremos iterar una variable ```i``` de 0 a 5. Haciendo uso de lo que hemos visto anteriormente, podríamos hacer lo siguiente:_**
   
-```  
-for i in (0, 1, 2, 3, 4, 5):
-    print(i) #0, 1, 2, 3, 4, 5
-```
+ 
+**_``` for i in (0, 1, 2, 3, 4, 5):
+    print(i) #0, 1, 2, 3, 4, 5```_**
 
 - **_Se trata de una solución que cumple con nuestro requisito._**
   
