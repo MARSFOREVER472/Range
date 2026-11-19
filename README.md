@@ -10,7 +10,7 @@
   
  
 **_``` for i in (0, 1, 2, 3, 4, 5):
-    print(i) #0, 1, 2, 3, 4, 5```_**
+           print(i) #0, 1, 2, 3, 4, 5```_**
 
 - **_Se trata de una solución que cumple con nuestro requisito._**
   
